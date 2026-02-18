@@ -37,9 +37,7 @@ export default function LoginModal({ isOpen, onClose }) {
               EST. 2024
             </p>
             <h2 className="text-3xl font-bold italic font-heading leading-tight">
-              AyurLife
-              <br />
-              Wellness
+              VAH
             </h2>
           </div>
         </div>

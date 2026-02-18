@@ -16,7 +16,7 @@ export default function Footer() {
               <div className="w-8 h-8 bg-primary rounded-full flex items-center justify-center">
                 <Leaf size={18} className="text-white" />
               </div>
-              <span className="text-xl font-bold font-heading">AyurLife</span>
+              <span className="text-xl font-bold font-heading">VAH</span>
             </Link>
             <p className="text-sm text-gray-400 leading-relaxed mb-6">
               Bringing the ancient wisdom of Ayurveda to your modern lifestyle.
@@ -91,7 +91,7 @@ export default function Footer() {
           <div>
             <h4 className="text-base font-semibold mb-5">About Us</h4>
             <p className="text-sm text-gray-400 leading-relaxed mb-4">
-              AyurLife is dedicated to preserving the authenticity of Ayurvedic
+              VAH is dedicated to preserving the authenticity of Ayurvedic
               traditions. Our products are 100% natural, free from harmful
               chemicals, and sourced from sustainable farms.
             </p>
@@ -107,7 +107,7 @@ export default function Footer() {
       <div className="border-t border-gray-700/50">
         <div className="max-w-[1400px] mx-auto px-4 sm:px-6 lg:px-6 py-4 flex flex-col sm:flex-row items-center justify-between gap-2">
           <p className="text-xs text-gray-500">
-            © 2023 AyurLife Wellness. All rights reserved.
+            © 2023 VAH Wellness. All rights reserved.
           </p>
           <p className="text-xs text-gray-500">
             English (US) &nbsp;·&nbsp; $ USD

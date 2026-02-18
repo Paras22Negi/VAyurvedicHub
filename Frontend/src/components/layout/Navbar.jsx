@@ -19,7 +19,7 @@ export default function Navbar() {
                 <Leaf size={18} className="text-white" />
               </div>
               <span className="text-xl font-bold font-heading text-text">
-                AyurLife
+                VAH
               </span>
             </Link>
 
