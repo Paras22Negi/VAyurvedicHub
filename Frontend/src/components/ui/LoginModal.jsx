@@ -13,7 +13,7 @@ export default function LoginModal({ isOpen, onClose }) {
   };
 
   return (
-    <div className="fixed inset-0 z-[100] flex items-center justify-center px-4">
+    <div className="fixed inset-0 z-100 flex items-center justify-center px-4">
       {/* Backdrop */}
       <div
         className="absolute inset-0 bg-black/50 backdrop-blur-sm"
@@ -30,7 +30,7 @@ export default function LoginModal({ isOpen, onClose }) {
             className="w-full h-full object-cover"
           />
           {/* Overlay */}
-          <div className="absolute inset-0 bg-gradient-to-t from-dark-bg/80 via-dark-bg/30 to-transparent" />
+          <div className="absolute inset-0 bg-linear-to-t from-dark-bg/80 via-dark-bg/30 to-transparent" />
           {/* Branding */}
           <div className="absolute bottom-8 left-8 right-8 text-white">
             <p className="text-xs tracking-[0.3em] text-white/70 mb-2">
